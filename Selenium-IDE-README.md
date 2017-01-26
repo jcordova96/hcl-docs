@@ -87,7 +87,7 @@ To do this please follow the steps below:
 - Always add comments between groups of commands to make your Test Case readable.  Right-click on the "Table" pane -> Insert New Comment.
 
 ### Selenium IDE Documentation
-- The Selenium IDE official website has very nice documentation and it's highly recommended to read through this to get a good understanding of using Selenium IDE to it's full potential:
+- The Selenium official website has very nice documentation and it's highly recommended to read through this to get a good understanding of using Selenium IDE to it's full potential:
 http://www.seleniumhq.org/docs/02_selenium_ide.jsp
 
 
