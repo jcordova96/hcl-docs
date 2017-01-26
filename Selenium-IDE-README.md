@@ -68,7 +68,20 @@ To do this please follow the steps below:
 - In the "Test Case" pane, the active Test Case is bolded.  Make sure your test case is active before trying to save it.  You can do this by double-clicking it.
 - To save the Test Case go to: File -> Save Test Case.  Make sure to save your Test Case in the right folder.
 
+### Record Commands
+- Once you have a Test Case open that you want to add commands to, you can begin by recording the user interactions you would like added to your Test Case.
+- Make sure your Firefox browser window only has one tab and it is on the page you would like to test.
+- On the Selenium IDE window, go to: Actions -> Record, or click the red "Click to Record" button.
+- Now go back to your browser window and start performing your sequence of clicks, etc. that you want recorded for testing.
+- When done, you can click the Record button again to stop recording.
+- Now you have a set of commands recorded in the "Table" pane.
+- Add more commands between the user event commands by right clicking on the "Table" pane and choosing "Insert New Command".
+- Highlight your newly created command and choose the "Command" from the dropdown below and set the proper parameters in the "Target" and "Value" fields.
+- Most commonly you will be adding commands to verify data on the page.
 
+### Selenium IDE Documentation
+- The Selenium IDE official website has very nice documentation and it's highly recommended to read through this to get a good understanding of using Selenium IDE to it's full potential:
+http://www.seleniumhq.org/docs/02_selenium_ide.jsp
 
 
 
