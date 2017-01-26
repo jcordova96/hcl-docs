@@ -24,7 +24,7 @@
 - ScreenShot on Fail (Selenium IDE)
 - SelBlocks (for Selenium IDE)
 
-- You must restart Firefox for the add-ons to load.
+You must restart Firefox for the add-ons to load.
 
 ## Install HCL Selenium Test Environment
 
