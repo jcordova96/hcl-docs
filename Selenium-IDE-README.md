@@ -59,8 +59,16 @@ To do this please follow the steps below:
 
 ### Creating a new Test Suite
 - If you are creating a new Test Suite for your HCL Cne environment, the best way to create it is to copy an existing folder and rename the files and folder appropriately.
-- All of the data files saved by Selenium IDE are in HTML format.  Therefore they can be easily modified in Windows Explorer to change filenames and delete files, and the files can be edited by your code editor of choice (Visual Studio Code, Sublime, etc.).
-- Make sure that your folder contains: {site}-variables-{collection}.html, {site}-test-suite-{collection}-{viewport}.html with the proper values set.
+- All of the data files saved by Selenium IDE are in HTML format.  Therefore they can be easily modified in Windows Explorer to rename and delete files/folders, and the files can be edited by your code editor of choice (Visual Studio Code, Sublime, etc.).
+- Make sure that your folder contains the files: {site}-variables-{collection}.html, {site}-test-suite-{collection}-{viewport}.html with the proper values set.
+
+### Adding Test Cases
+- Our Test Case files correspond to a page, and should be named the page name.
+- Right click on the "Test Case" pane and choose "Add Test Case..." or use the shortcut Ctrl+D.
+- In the "Test Case" pane, the active Test Case is bolded.  Make sure your test case is active before trying to save it.  You can do this by double-clicking it.
+- To save the Test Case go to: File -> Save Test Case.  Make sure to save your Test Case in the right folder.
+
+
 
 
 
