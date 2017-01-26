@@ -1,4 +1,4 @@
-# Selenium IDE Installation and Usage
+# HCL CnE Selenium IDE Test Environment Installation and Usage
 
 ## Installation
 
